@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/WebApplication/.vs/WebApplication
+/WebApplication/packages
+/WebApplication/WebApplication/bin
+/WebApplication/WebApplication/obj/Debug
